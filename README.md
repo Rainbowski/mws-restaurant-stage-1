@@ -2,7 +2,7 @@
 
 ## How to Install
 
-* Clone or download the project from repository.
+* Clone or download the project from the repository.
 
 * Run server according below steps;
 
