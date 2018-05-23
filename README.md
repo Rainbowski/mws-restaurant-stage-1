@@ -10,7 +10,7 @@
 - Python 2: python -m SimpleHTTPServer 8000 
 - Python 3: python3 -m http.server 8000
 
-* Go to : http://localhost:8000 and view the website.
+* Go in your browser to: http://localhost:8000 and view the website.
 
 Enjoy the website!
 
